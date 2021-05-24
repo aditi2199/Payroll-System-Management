@@ -1,0 +1,2 @@
+# Payroll-System-Management
+It is a simple c++ projects without the use of graphics. It has multiple classes and sub-classes with various features within. Basic operations can be performed via this program project (based on file handling) are adding new employee record, modifying employee record and deleting record, displaying one or all employee’s record. This project also allows users to print the salary slip for a particular employee.
